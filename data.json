@@ -1,0 +1,47 @@
+{
+"basics":{
+  "photo":"123.jpg",
+  "name": "shusmitha",
+  "email":"a@gmail.com",
+  "phone": "9876543798"
+},
+"education":[{
+  "course": "B.Tech(computer science and engineering)",
+  "college":[
+    "Ravindra college of engineering for women",
+    "2015-2019",
+    "60%"
+  ]
+},
+{
+  "course": "Intermediate(mpc)",
+  "college": [
+    "narayana junior college ",
+    "2013-2015",
+    "70%"
+  ]
+},
+{
+"course": "ssc",
+"college": [
+  "Bhashyam public high school",
+  "2012",
+  "60%"
+]
+}
+],
+  "skills":[
+    {
+    "name":"operating system",
+    "value":"windows,linux"
+  },
+  {
+  "name":"programming langauge",
+  "value":"c,c++,java"
+},
+{
+  "name":"web devolopment",
+  "value":"HTML,phython"
+}
+]
+}
